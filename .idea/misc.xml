@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="TaskProjectConfiguration">
+    <server type="YouTrack" url="https://bugs.yiffos.gay" />
+  </component>
+  <component name="UnattendedHostPersistenceState">
+    <option name="openedFilesInfos">
+      <list>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="1858" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/src/commands/install.rs" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="539" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/src/commands/help.rs" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="1227" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/src/commands/upgrade.rs" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="118" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/src/commands/sync.rs" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="203" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/Cargo.toml" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="0" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/src/util/packaging/fns.rs" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="3027" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/src/commands/localinstall.rs" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="634" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/src/util/transactions/install.rs" />
+        </OpenedFileInfo>
+      </list>
+    </option>
+  </component>
+</project>
